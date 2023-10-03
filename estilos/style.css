@@ -8,7 +8,7 @@
 }
 
 :root {
-  --cor1: #a346e0;
+  --cor1: #5e548e;
   --cor2: #49a09d;
   --cor-botao-hover: #2d6462;
   --cor-botao-esqueci-senha: #6cd3cf;
@@ -48,7 +48,7 @@ section#login {
 
 section#login > div#imagem {
   display: block;
-  background: var(--cor1) url('../imagens/login-image.jpg') no-repeat;
+  background: var(--cor1) url('../imagens/segunda-imagem.jpg') no-repeat;
   height: 200px;
   background-size: cover;
   background-position: left center;
