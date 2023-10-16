@@ -96,14 +96,14 @@ div.campo > input {
   background-color: var(--cor-caixas-input);
   font-size: 1em;
   /* Usamos calc para que as caixas de texto dos inputs caiba na div junto com os ícones*/
-  width: calc(100% - 44.5px);
+  width: calc(100% - 44.4px);
   height: 100%;
   border: 0px;
   border-radius: 8px;
   padding: 4px;
   /* Vai fazer as caixas de texto subirem para encaixarem na div*/
   /* Para evitar imcompatibilidade, essa config deve ser sempre a última*/
-  transform: translateY(-12px);
+  transform: translateY(-13px);
 
 }
 
