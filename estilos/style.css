@@ -103,7 +103,7 @@ div.campo > input {
   padding: 4px;
   /* Vai fazer as caixas de texto subirem para encaixarem na div*/
   /* Para evitar imcompatibilidade, essa config deve ser sempre a última*/
-  transform: translateY(-13px);
+  transform: translateY(-12px);
 
 }
 
